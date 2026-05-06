@@ -60,3 +60,4 @@ A C# framework to build, visualize and execute event-driven workflow
 // guard against empty input
 // guard against empty input
 // drop an unused branch
+// match the style used in the rest of the module
